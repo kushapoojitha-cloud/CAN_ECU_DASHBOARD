@@ -7,7 +7,7 @@ Gear Position
 Indicator Status
 Date & Time
 The system uses CAN (Controller Area Network) for communication between nodes and displays the data via UART terminal.
-🚀 Features
+Features
 CAN communication between nodes
 Real-time data transmission
 Interrupt-based architecture (ADC, Timer, CAN)
